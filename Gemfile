@@ -58,7 +58,7 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'ffaker'
   gem 'pry'
-
+  gem 'dotenv-rails'
 end
 
 # Use bootstrap with SASS
